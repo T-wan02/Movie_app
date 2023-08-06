@@ -2,18 +2,18 @@
 
      Prototype movie web app
 
-## Description
+## Description:
 
      We will mainly use Movie DB api to fetch data for movies and series.
 
-### Steps
+### Steps:
 
-     - Discuss features
-     - Discuss design (Including colors, typography, ...)
-     - Create the design prototype in Figma
-     - Choosing tech stacks
-     - Developing the frontend part
-     - Developing the backend part
+     -    Discuss features
+     -    Discuss design (Including colors, typography, ...)
+     -    Create the design prototype in Figma
+     -    Choosing tech stacks
+     -    Developing the frontend part
+     -    Developing the backend part
 
 ### Website reference links
 
